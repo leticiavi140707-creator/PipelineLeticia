@@ -1,4 +1,4 @@
- name: Pipeline Fatec
+name: Pipeline Fatec
 
 on:
   push:
@@ -47,3 +47,4 @@ jobs:
         run: |
           echo "Publicando no ambiente: $AMBIENTE"
           echo "Deploy concluído com sucesso!"
+          
