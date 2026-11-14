@@ -47,4 +47,3 @@ jobs:
         run: |
           echo "Publicando no ambiente: $AMBIENTE"
           echo "Deploy concluído com sucesso!"
-          
